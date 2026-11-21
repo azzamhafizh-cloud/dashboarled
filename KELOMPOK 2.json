@@ -2,7 +2,7 @@
   {
     "id": "3a09c1e6-dccc-44e5-bb61-416e02cfe77e",
     "clientId": "mqttx_bc246803",
-    "name": "KELOMPOK 4",
+    "name": "KELOMPOK 2",
     "clean": true,
     "protocol": "mqtt",
     "host": "broker.emqx.io",
@@ -79,7 +79,7 @@
         "payload": "hallo mqtt",
         "qos": 0,
         "retain": false,
-        "topic": "kelas-08A/24/",
+        "topic": "kelas-08A/tim2/",
         "meta": null,
         "connectionId": "3a09c1e6-dccc-44e5-bb61-416e02cfe77e",
         "properties": {
